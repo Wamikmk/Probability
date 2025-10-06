@@ -34,11 +34,7 @@ This notebook requires the following libraries:
 
 These are commonly available in Google Colab environments.
 
-## Credits
 
-This notebook is inspired by various explanations and examples of Simpson's Paradox used in statistics education.
-
-## Contributing
 
 Feel free to modify and experiment with the code. If you have suggestions for improvement, you can adapt this notebook for your own use.
 
