@@ -38,6 +38,4 @@ These are commonly available in Google Colab environments.
 
 Feel free to modify and experiment with the code. If you have suggestions for improvement, you can adapt this notebook for your own use.
 
----
 
-**Happy Learning!**
